@@ -7,8 +7,7 @@ Student and backend developer
 * 🌍  I'm based in Kyiv, Ukraine
 * 🖥️  See my portfolio at [GitHub](http://github.com/YehorKuznetsov)
 * ✉️  You can contact me at [egork5106@gmail.com](mailto:egork5106@gmail.com)
-* 🧠  I'm learning C++, C#, JS
-* ⚡  I'm batman
+* 🧠  I'm learning C++, C#, JS, Python, SQL
 
 ### Skills
 
