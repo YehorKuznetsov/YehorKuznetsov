@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yehor Kuznetsov
 =======================================================================================================================================
 
-Student and backend developer
+Backend developer
 -----------------------------
 
 * 🌍  I'm based in Kyiv, Ukraine
 * 🖥️  See my portfolio at [GitHub](http://github.com/YehorKuznetsov)
 * ✉️  You can contact me at [egork5106@gmail.com](mailto:egork5106@gmail.com)
-* 🧠  I'm learning C#, Python, C++, JS, SQL, Dart
+* 🧠  C# • ASP.NET Core • Entity Framework Core • PostgreSQL • Redis •  Docker •  MinIO (S3) • DDD • CQRS • Clean Architecture • FluentValidation • AutoMapper • GitHub Actions • aiogram • FastAPI
 
 ### Skills
 
