@@ -1,13 +1,27 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yehor Kuznetsov
 =======================================================================================================================================
 
-Backend developer(Development Team-Leader)
+Fullstack developer(Development Team-Leader)
 -----------------------------
 
 * 🌍  I'm based in Kyiv, Ukraine
 * 🖥️  See my portfolio at [GitHub](http://github.com/YehorKuznetsov)
 * ✉️  You can contact me at [egork5106@gmail.com](mailto:egork5106@gmail.com)
-* 🧠  C# • ASP.NET Core • Entity Framework Core • PostgreSQL • Redis •  Docker •  MinIO (S3) • DDD • CQRS • Clean Architecture • FluentValidation • AutoMapper • GitHub Actions • aiogram • FastAPI
+* 🧠  
+Tech Stack:
+C#, ASP.NET Core, Entity Framework Core, React, Next.js, JavaScript, TypeScript, PostgreSQL, Docker, MinIO (S3)
+
+Practices & Architecture:
+DDD, CQRS, Clean Architecture
+
+DevOps & Delivery:
+CI/CD, GitHub Actions, Nginx
+
+API & Security:
+Swagger (OpenAPI), JWT, External API Integrations
+
+Python:
+FastAPI, aiogram
 
 ### Skills
 
