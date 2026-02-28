@@ -7,7 +7,6 @@
 </div>
 
 **Fullstack Developer · Team Lead**
-
 Building reliable, scalable systems with clean architecture.
 
 📍 Kyiv, Ukraine · 📬 egork5106@gmail.com
@@ -42,33 +41,30 @@ Building reliable, scalable systems with clean architecture.
 
 ## Architecture & Practices
 
-```
-DDD · CQRS (MediatR) · Clean Architecture · Layered Architecture
-CI/CD · JWT · OpenAPI · External API Integrations
-```
+I design systems around clear boundaries and responsibilities — from domain modeling to deployment.
+
+- **Domain-Driven Design** — splitting complex domains into bounded contexts with rich domain models
+- **CQRS + MediatR** — separating reads from writes, keeping handlers focused and testable
+- **Clean / Layered Architecture** — Domain → Application → Infrastructure → API, with strict dependency direction
+- **Modular Monolith** — structuring large applications as independent modules sharing a single deployment
+- **CI/CD with GitHub Actions** — automated build, test, Docker image publishing to GHCR, and SSH deploy on push to main
+- **JWT & Security** — token-based auth, BCrypt hashing, rate limiting, secrets management
+- **OpenAPI / Swagger** — self-documenting APIs as a contract between frontend and backend
+- **External Integrations** — ERP systems (1C), POS (Poster), payment gateways (Stripe), AI APIs (OpenAI)
+- **Database Migrations** — EF Core Migrations and Alembic for versioned, reproducible schema changes
+- **Structured Logging** — Serilog with contextual enrichment for production observability
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **GrandeWebsite** | ASP.NET Core 9 · Next.js · PostgreSQL · Docker | E-commerce platform with modular DDD architecture, Poster POS sync, CI/CD |
-| **inver.top** | ASP.NET Core 8 · React · PostgreSQL · Docker | Inventory management with drag-and-drop UI and dual API (client + admin) |
-| **DocForge** | ASP.NET Core · OpenAI · Stripe · MinIO | AI-powered documentation generator with payment subscriptions |
-| **TrackingBot** | FastAPI · aiogram · SQLAlchemy · matplotlib | Tracking system with REST API, Telegram bot interface and data visualization |
-| **BeerHopBonusBot** | aiogram 3 · SQLAlchemy · 1C integration | Loyalty program bot with dual-dispatcher architecture and ERP sync |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YehorKuznetsov-Programming&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehorKuznetsov-Programming&layout=compact&theme=dark&hide_border=true)
-
-</div>
+| Stack | Description |
+|-------|-------------|
+| ASP.NET Core 9 · Next.js · PostgreSQL · Docker | E-commerce platform with modular DDD architecture, Poster POS sync, CI/CD |
+| ASP.NET Core 8 · React · PostgreSQL · Docker | Inventory management with drag-and-drop UI and dual API (client + admin) |
+| ASP.NET Core · OpenAI · Stripe · MinIO | AI-powered documentation generator with payment subscriptions |
+| FastAPI · aiogram · SQLAlchemy · matplotlib | Tracking system with REST API, Telegram bot interface and data visualization |
+| aiogram 3 · SQLAlchemy · 1C integration | Loyalty program bot with dual-dispatcher architecture and ERP sync |
 
 ---
 
