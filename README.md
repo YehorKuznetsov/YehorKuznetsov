@@ -61,9 +61,9 @@ I design systems around clear boundaries and responsibilities — from domain mo
 | Stack | Description |
 |-------|-------------|
 | ASP.NET Core 9 · Next.js · PostgreSQL · Docker | E-commerce platform with modular DDD architecture, Poster POS sync, CI/CD |
-| ASP.NET Core 8 · React · PostgreSQL · Docker | Inventory management with drag-and-drop UI and dual API (client + admin) |
+| ASP.NET Core 8 · React · PostgreSQL · Docker | Inventory management with CMS and dual API (client + admin) |
 | ASP.NET Core · OpenAI · Stripe · MinIO | AI-powered documentation generator with payment subscriptions |
-| FastAPI · aiogram · SQLAlchemy · matplotlib | Tracking system with REST API, Telegram bot interface and data visualization |
+| FastAPI · aiogram · SQLAlchemy · matplotlib | Tracking system with REST API in Telegram, bot interface and data visualization |
 | aiogram 3 · SQLAlchemy · 1C integration | Loyalty program bot with dual-dispatcher architecture and ERP sync |
 
 ---
