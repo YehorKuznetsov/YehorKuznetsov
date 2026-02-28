@@ -7,6 +7,7 @@
 </div>
 
 **Fullstack Developer · Team Lead**
+
 Building reliable, scalable systems with clean architecture.
 
 📍 Kyiv, Ukraine · 📬 egork5106@gmail.com
